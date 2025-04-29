@@ -81,7 +81,7 @@ The `pre_nav_compute()` method prepares the system for navigation by:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/visual-navigation-game.git
+   git clone https://github.com/dineshsairallapalli/visual-navigation-game.git
    cd visual-navigation-game
    ```
 2. Install dependencies:
